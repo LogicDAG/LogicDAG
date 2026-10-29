@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "total": 50,
+    "design_notes": [
+      "Keyword domains — LLM picks the most natural scenario within the domain."
+    ]
+  },
+  "all": [
+    "Everyday Life", "Social Life", "Education", "Cooking & Nutrition", "Business & Organizations",
+    "Animals & Nature", "Biology", "Ecology", "Agriculture", "Environment", "Animal Care",
+    "Geography", "Geology", "Meteorology", "Oceanography", "Astronomy", "Space",
+    "Physics", "Chemistry", "Mathematics",
+    "Engineering", "Technology", "Computer Science", "Information Systems", "Renewable Energy", "Manufacturing",
+    "Transportation", "Logistics", "Urban Planning", "Facilities Management", "Public Safety",
+    "Sports", "Puzzles & Games", "Calendars & Scheduling", "Navigation & Maps", "Systems & Processes",
+    "Art", "Music", "Film", "Literature", "Language & Grammar", "Culture",
+    "History", "Archaeology", "Anthropology", "Sociology", "Philosophy",
+    "Public Administration", "Economics", "Accounting"
+  ]
+}
